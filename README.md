@@ -1,9 +1,9 @@
-== OLED Bluetooth messager
+# OLED Bluetooth messager
 
 This displays messages from Bluetooth module HC06 on a 0.96" I2C display.
 Arduino Nano or Uno code.
 
-== Wiring
+# Wiring
 * OLED GND – Arduino GND
 * OLED VCC – Arduino 5V
 * OLED SCL – Arduino Uno A5
