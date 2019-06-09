@@ -16,3 +16,6 @@ Arduino Nano or Uno code.
 
 Note - When programming the Arduino, must disconnect Serial Pins to HC06.
 
+# Video Example
+![](example.gif)
+
